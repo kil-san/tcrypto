@@ -1,0 +1,28 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "level": 1,
+      "name": "NFT1",
+      "symbol": "bronze",
+      "image": "/badges/bronze.png",
+      "description": "NFT1 token are rare. There are only 3 of a kind."
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "name": "NFT2",
+      "symbol": "silver",
+      "image": "/badges/silver.png",
+      "description": "NFT2 token are even rarer. Only 2 of a kind."
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "name": "NFT3",
+      "symbol": "gold",
+      "image": "/badges/gold.png",
+      "description": "NFT3 are so rare, you will only find one in the whole universe."
+    }
+  ]
+}

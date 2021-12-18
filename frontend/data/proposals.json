@@ -1,0 +1,25 @@
+{
+    "proposals":[
+        {
+            "slug":"proposal-1",
+            "title":"Should we create a new Podcast?",
+            "description":"We have already some podcasts, but why not having more. What do you thing?",
+            "optionA":"Yes, we should create a new podcast",
+            "optionB":"No, we should add more episodes to the existing podcasts"
+        },
+        {
+            "slug":"proposal-2",
+            "title":"Should we create a new Podcast? (2)",
+            "description":"We have already some podcasts, but why not having more. What do you thing?",
+            "optionA":"Yes, we should create a new podcast",
+            "optionB":"No, we should add more episodes to the existing podcasts"
+        },
+        {
+            "slug":"proposal-3",
+            "title":"Which team should win the hackweek?",
+            "description":"This is biased, you know.",
+            "optionA":"Yes, U.Crypto",
+            "optionB":"Yeah, U.Crypto"
+        }
+    ]
+}
