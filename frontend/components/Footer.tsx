@@ -10,10 +10,10 @@ const Footer = () => {
         <div className='container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col'>
           <a className='flex title-font font-medium items-center md:justify-start justify-center text-gray-900'>
             <img src={Logo.src} style={{ width: '5vw' }} />
-            <span className='ml-3 text-xl'>UCrypto</span>
+            <span className='ml-3 text-xl'>T.Crypto</span>
           </a>
           <p className='text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4'>
-            © {new Date().getFullYear()} UCrypto —
+            © {new Date().getFullYear()} T.Crypto —
             <a
               href='https://twitter.com/_JMary'
               rel='noopener noreferrer'
